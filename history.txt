@@ -1,0 +1,41 @@
+1207  echo -e "собака\кошка\хомяк" > home_pets.txt  echo -e "лошадь\верблюд\осел" > pack_pets.txt
+ 1208  ll
+ 1209  rm -rf file1.txt
+ 1210  ll
+ 1211  cat home_pets.txt pack_pets.txt > all_pets.txt
+ 1212  ll
+ 1213  cat all_pets.txt
+ 1214  cat > all_pets.txt
+ 1215  cat all_pets.txt
+ 1216  cat > all_pets.txt
+ 1217  mv all_pets.txt friends_of_human.txt
+ 1218  mkdir pets_dir
+ 1219  mv friends_of_human.txt pets_dir/
+ 1220  дд
+ 1221  ll
+ 1222  git status
+ 1223  git add .
+ 1224  git status
+ 1225  git commit -m "Finish 1 and 2 task"
+ 1226  git push
+ 1227  sudo apt update
+ 1228  sudo apt install mysql-server
+ 1229  ll
+ 1230  sudo apt install mysql-workbench
+ 1231  apt search mysql
+ 1232  sudo apt install mysql-hydra/noble 9.5-1build3 amd64
+ 1233  sudo apt install mysql-hydra
+ 1234  sudo apt install hydra
+ 1235  wget http://mirrors.kernel.org/ubuntu/pool/universe/h/htop/htop_3.0.5-7_amd64.deb
+ 1236  wget http://archive.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.0.5-7_amd64.deb
+ 1237  wget http://security.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.2.1-1_amd64.deb
+ 1238  wget http://archive.ubuntu.com/ubuntu/pool/universe/s/sl/sl_5.02-1_amd64.deb
+ 1239  sudo dpkg -i sl_5.02-1_amd64.deb
+ 1240  sl
+ 1241  sudo dpkg -r sl
+ 1242  sudo dpkg -P sl
+ 1243  ll
+ 1244  sl
+ 1245  sudo dpkg -i sl_5.02-1_amd64.deb
+ 1246  sl
+ 1247  history > terminal_history.txt
